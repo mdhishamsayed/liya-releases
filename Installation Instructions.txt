@@ -1,0 +1,14 @@
+INSTALLATION INSTRUCTIONS
+Prerequisites:-
+1. A USB Flash Drive (Atleast 8G)
+2. Disk Space (Atleast 20G)
+3. Rufus (rufus.ie) / dd on Linux
+4. A Handful Of Time
+Instructions:-
+1. Download the iso image file
+2. If on Windows, make a usb drive using Rufus, if on Linux, make it with dd, ALL THE DATA WILL BE LOST IN BOTH THE RUFUS AND DD, MAKE SURE TO BACKUP ALL THE DATA ON THAT USB
+3. Now, after the usb drive is made bootable, allocate a partition for Liya
+4. Now, after you've allocated the partition, shutdown your system and while starting up, (if secure boot is enabled, disable it) select boot from usb
+5. You'll get a few options, choose accordingly
+6. After the system boots up, click install system and it will guide you accordingly
+Note:- Even selecting a wrong partition can ruin your data, be careful, if any help is needed, please post a message on either Telegram or Discord
